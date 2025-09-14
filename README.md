@@ -6,3 +6,6 @@
 - Предлагани услуги (mail, www, ERP и др.)
 - Мрежов мониторинг
 - Технико-икономически разчет
+
+- 
+<img width="952" height="663" alt="Screenshot 2025-09-14 024146" src="https://github.com/user-attachments/assets/db18c961-d037-44e5-ba0a-e62d5c7f1f4a" />
