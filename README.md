@@ -1,4 +1,4 @@
-# Corporate-Network
+# Simple-Office-Network
 
 1.Съдържание:
 Проект за проектиране на корпоративна мрежова инфраструктура, включително:
@@ -16,3 +16,8 @@
 
   
 <img width="1886" height="713" alt="ттт" src="https://github.com/user-attachments/assets/7cbfc7cd-9427-4f2e-84a5-c7ba2c3d0157" />
+3. Обяснение на схемата
+-Статични IP адреси:
+  Офис 1:
+Main router:Gateway 192.168.1.1 
+
